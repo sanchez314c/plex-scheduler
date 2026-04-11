@@ -1,0 +1,31 @@
+# Logs
+*.log
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Generated files
+*.plist
+
+# Temp files
+*.tmp
+*.bak
+*.old
+.cache/
+
+# Backups & legacy
+archive/
+legacy/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
